@@ -8,7 +8,7 @@ An Azure subscription is provided for this lab, see the credentials above. If yo
 
 # Troubleshoot routing, traffic control and load balancing issues
 
-**Estimated Time: 10 minutes**
+**Estimated Time: 15 minutes**
 
 You work as a support engineer supporting Azure infrastructure. You've been contacted by your web team about an issue with website performance. The web team has a pool of webservers behind a load balancer and public IP address.
 
